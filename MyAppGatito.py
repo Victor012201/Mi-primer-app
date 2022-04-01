@@ -5,6 +5,8 @@ st.write("el valor de click es:",click)
 if click==True:
     st.image("gato.jpg")
 st.button("NO")
+num1=st.slider("elige el numero 1",0.0,100.0,25.0)
+num2=st.slider("elige el numero 2",0.0,100.0,25.0)
 #import pandas as pd
 #df = pd.read_csv("https://raw.githubusercontent.com/quantum-apps/mapa/main/data.csv")
 #st.write(df)
