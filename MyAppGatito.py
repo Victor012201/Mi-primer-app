@@ -1,7 +1,7 @@
 import streamlit as st
 st.title("Mi primer app")
 click=st.button("SI")
-st.write("el valor de si es:",si)
+st.write("el valor de click es:",click)
 st.button("NO")
 #import pandas as pd
 #df = pd.read_csv("https://raw.githubusercontent.com/quantum-apps/mapa/main/data.csv")
