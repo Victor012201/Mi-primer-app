@@ -2,7 +2,7 @@ import streamlit as st
 st.title("Mi primer app")
 click=st.button("SI")
 st.write("el valor de click es:",click)
-if click==true:
+if click==True:
     st.image("gato.jpg")
 st.button("NO")
 #import pandas as pd
