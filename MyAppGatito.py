@@ -3,7 +3,7 @@ st.title("Mi primer app")
 click=st.button("SI")
 st.write("el valor de click es:",click)
 if click==true:
-    st.image("gato")
+    st.image("gati.jpg")
 st.button("NO")
 #import pandas as pd
 #df = pd.read_csv("https://raw.githubusercontent.com/quantum-apps/mapa/main/data.csv")
