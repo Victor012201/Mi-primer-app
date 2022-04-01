@@ -1,3 +1,4 @@
 import streamlit as st
 st.title("Mi primer app")
-st.button("OK")
+st.button("SI")
+st.button("NO")
