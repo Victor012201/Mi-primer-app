@@ -3,7 +3,7 @@ st.title("Mi primer app")
 click=st.button("SI")
 st.write("el valor de click es:",click)
 if click==true:
-    st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%28Toulouse%29_Le_Vue_%28La_Dame_%C3%A0_la_licorne%29_-_La_Dame_-_Mus%C3%A9e_de_Cluny_Paris.jpg/220px-%28Toulouse%29_Le_Vue_%28La_Dame_%C3%A0_la_licorne%29_-_La_Dame_-_Mus%C3%A9e_de_Cluny_Paris.jpg")
+    st.image("https://raw.githubusercontent.com/quantum-apps/mapa/main/data.csv")
 st.button("NO")
 #import pandas as pd
 #df = pd.read_csv("https://raw.githubusercontent.com/quantum-apps/mapa/main/data.csv")
