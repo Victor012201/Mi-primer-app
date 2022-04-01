@@ -12,8 +12,8 @@ st.write("la suma de",num1,"y",num2,"es :",suma)
 st.write("ahora multipliquemos")
 nm1=st.number_input("Dame n1")
 nm2=st.number_input("Dame n2")
-mult=nn1*nn2
-st.write("la multiplicacion de",nn1,"y",nn2,"es :",mult)
+mult=nm1*nm2
+st.write("la multiplicacion de",nm1,"y",nm2,"es :",mult)
 #import pandas as pd
 #df = pd.read_csv("https://raw.githubusercontent.com/quantum-apps/mapa/main/data.csv")
 #st.write(df)
